@@ -1,0 +1,77 @@
+body{
+    background-color: #333;
+}
+.navbar{
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 50px;
+}
+a:hover{
+    transition: 0.5s;
+    color: red;
+}
+.fa-solid{
+    margin-left: 400px;
+    cursor: pointer;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin-top: 150px;
+    margin-left: 30px;
+}
+hr{
+    width: 1300px;
+}
+.mangalar{
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 200px;
+    height: 310px;
+    float: left;
+    margin-left: 55px;
+}
+img{
+    margin-top: 10px;
+    margin-left: 23px;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+h4{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 10px;
+}
+.fa-regular{
+    margin-left: 10px;
+}
+.bolum{
+    margin-left: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 80px;
+    height: 30px;
+    padding-top: 5px;
+    padding-left: 15px;
+    margin-top: 0x;
+    cursor: pointer;
+}
+.mangalar:hover{
+    border-color: red;
+}
+img:hover{
+    border-color: red;
+}
+.bolum:hover{
+    border-color: red;
+}
+.mangaoku{
+    
+}
